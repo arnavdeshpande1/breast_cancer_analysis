@@ -11,8 +11,13 @@
 *Various classification algorithms accuracy scores:
 
 LogisticRegression Accuracy : 0.9064327485380117
+
 DecisionTree Accuracy : 0.935672514619883
+
 RandomForest Accuracy : 0.9532163742690059
+
 SVM Accuracy : 0.8888888888888888
+
 KNN Accuracy : 0.9005847953216374
+
 GaussianNB Accuracy : 0.8947368421052632
